@@ -1,0 +1,30 @@
+.error, .error-message{
+	color: red;
+	font-size: 180%;
+}
+
+.inbox_div .no-padding .mailbox-controls .btn-group input {
+  background-color: rgb(244, 244, 244);
+  border-color: rgb(221, 221, 221);
+
+}
+
+ .m-bold {
+  background-color: #bbb !important;
+ }
+ .m-bold:hover {
+  background-color: #999 !important;
+ }
+ .m-no-link td a{
+    text-decoration: none;
+    color: #333;
+ }
+ .m-no-link td a:hover{
+    text-decoration: none;
+    color: #222;
+ }
+
+ .delete_bulk{
+    background-color: #fff !important;
+    border: none;
+ }

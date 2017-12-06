@@ -1,0 +1,33 @@
+2016-05-27 15:13:10 Notice: Notice (8): Undefined index: lat in [/var/www/projects/runningportal/runningportal/app/View/Users/admin_useredit.ctp, line 53]
+Trace:
+include - APP/View/Users/admin_useredit.ctp, line 53
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 111
+
+2016-05-27 15:14:11 Notice: Notice (8): Undefined index: lat in [/var/www/projects/runningportal/runningportal/app/View/Users/admin_useredit.ctp, line 53]
+Trace:
+include - APP/View/Users/admin_useredit.ctp, line 53
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 111
+
+2016-05-27 15:14:40 Notice: Notice (8): Undefined index: lat in [/var/www/projects/runningportal/runningportal/app/View/Users/admin_useredit.ctp, line 53]
+Trace:
+include - APP/View/Users/admin_useredit.ctp, line 53
+View::_evaluate() - CORE/Cake/View/View.php, line 971
+View::_render() - CORE/Cake/View/View.php, line 933
+View::render() - CORE/Cake/View/View.php, line 473
+Controller::render() - CORE/Cake/Controller/Controller.php, line 960
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 111
+

@@ -1,0 +1,983 @@
+[22-Nov-2016 04:20:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/whizna/public_html/app/Model/Course.php on line 67
+[22-Nov-2016 05:23:33 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/whizna/public_html/app/Controller/PagesController.php on line 31
+[22-Nov-2016 06:18:18 America/Chicago] PHP Fatal error:  Class 'Paypal' not found in /home/whizna/public_html/app/Controller/AppController.php on line 52
+[22-Nov-2016 06:18:18 America/Chicago] PHP Fatal error:  Class 'Paypal' not found in /home/whizna/public_html/app/Controller/AppController.php on line 52
+[22-Nov-2016 06:19:59 America/Chicago] PHP Fatal error:  Call to a member function findByUserId() on a non-object in /home/whizna/public_html/app/Controller/AppController.php on line 94
+[22-Nov-2016 06:19:59 America/Chicago] PHP Fatal error:  Call to a member function findByUserId() on a non-object in /home/whizna/public_html/app/Controller/AppController.php on line 94
+[23-Nov-2016 04:40:09 America/Chicago] PHP Fatal error:  Call to a member function css() on a non-object in /home/whizna/public_html/app/View/Elements/admin-head.ctp on line 18
+[23-Nov-2016 04:40:09 America/Chicago] PHP Fatal error:  Call to a member function css() on a non-object in /home/whizna/public_html/app/View/Elements/admin-head.ctp on line 18
+[24-Nov-2016 00:25:27 America/Chicago] PHP Warning:  Unterminated comment starting line 128 in /home/whizna/public_html/app/Controller/PartsController.php on line 128
+[24-Nov-2016 00:25:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/PartsController.php on line 355
+[24-Nov-2016 00:30:11 America/Chicago] PHP Warning:  Unterminated comment starting line 133 in /home/whizna/public_html/app/Controller/PartsController.php on line 133
+[24-Nov-2016 00:30:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/PartsController.php on line 360
+[24-Nov-2016 00:31:46 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:46 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:46 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:46 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:46 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:46 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:47 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:47 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:31:47 America/Chicago] PHP Fatal error:  Call to undefined method ConnectionManager::get() in /home/whizna/public_html/app/Controller/PartsController.php on line 117
+[24-Nov-2016 00:32:51 America/Chicago] PHP Fatal error:  Class 'Cake\Datasource\ConnectionManager' not found in /home/whizna/public_html/app/Controller/PartsController.php on line 118
+[24-Nov-2016 00:33:46 America/Chicago] PHP Fatal error:  Class 'Cake\Datasource\ConnectionManager' not found in /home/whizna/public_html/app/Controller/PartsController.php on line 118
+[24-Nov-2016 00:36:28 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home/whizna/public_html/app/Controller/PartsController.php on line 119
+[24-Nov-2016 00:36:29 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home/whizna/public_html/app/Controller/PartsController.php on line 119
+[24-Nov-2016 00:38:41 America/Chicago] PHP Fatal error:  Call to a member function fetchall() on a non-object in /home/whizna/public_html/app/Controller/PartsController.php on line 130
+[24-Nov-2016 00:38:49 America/Chicago] PHP Fatal error:  Call to a member function fetchall() on a non-object in /home/whizna/public_html/app/Controller/PartsController.php on line 130
+[24-Nov-2016 00:41:30 America/Chicago] PHP Fatal error:  Call to a member function fetchall() on a non-object in /home/whizna/public_html/app/Controller/PartsController.php on line 130
+[24-Nov-2016 01:47:00 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 01:57:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 02:04:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 02:07:25 America/Chicago] PHP Fatal error:  Call to a member function redirect() on a non-object in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 02:07:43 America/Chicago] PHP Fatal error:  Call to a member function link() on a non-object in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 02:11:07 America/Chicago] PHP Fatal error:  Call to undefined method View::redirect() in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 02:11:43 America/Chicago] PHP Fatal error:  Call to undefined method View::redirect() in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 44
+[24-Nov-2016 02:28:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 45
+[24-Nov-2016 05:11:06 America/Chicago] PHP Parse error:  syntax error, unexpected '$tracking_number' (T_VARIABLE) in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 55
+[24-Nov-2016 05:13:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$tracking_number' (T_VARIABLE) in /home/whizna/public_html/app/View/Parts/admin_partlist.ctp on line 55
+[25-Nov-2016 04:39:41 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/whizna/public_html/app/View/Rmas/admin_add.ctp on line 135
+[28-Nov-2016 02:00:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:07 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:07 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:07 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:00:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:27 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:03:29 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:04:57 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:05:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:39 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:50 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:06:55 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:07:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 8
+[28-Nov-2016 02:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:55 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:55 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:07:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:08:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:08:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:08:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:08:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:08:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:08:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 10
+[28-Nov-2016 02:09:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:24 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[28-Nov-2016 02:09:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Rmas/admin_rmadetails.ctp on line 11
+[29-Nov-2016 04:07:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/Controller/LeadsController.php on line 36
+[01-Dec-2016 00:42:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:42:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[01-Dec-2016 00:43:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 18
+[02-Dec-2016 01:16:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[02-Dec-2016 01:16:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 222
+[06-Dec-2016 01:53:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 265
+[06-Dec-2016 01:53:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 265
+[06-Dec-2016 01:53:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 265
+[06-Dec-2016 01:53:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 265
+[06-Dec-2016 01:53:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 265
+[06-Dec-2016 01:53:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 265
+[06-Dec-2016 06:35:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:10 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:28 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:28 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:29 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[06-Dec-2016 06:35:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 178
+[07-Dec-2016 01:02:00 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 210
+[07-Dec-2016 01:02:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 210
+[07-Dec-2016 01:02:04 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 210
+[07-Dec-2016 01:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 210
+[07-Dec-2016 01:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 210
+[07-Dec-2016 01:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 210
+[07-Dec-2016 03:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 03:24:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home/whizna/public_html/app/Controller/ProductsController.php on line 57
+[07-Dec-2016 06:05:14 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Categories/admin_add.ctp on line 14
+[07-Dec-2016 06:55:49 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 06:55:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 696
+[07-Dec-2016 23:54:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/whizna/public_html/app/Controller/UsersController.php on line 458
+[18-Dec-2016 23:50:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$user' (T_VARIABLE), expecting function (T_FUNCTION) in /home/whizna/public_html/app/Controller/LeadsController.php on line 121
+[19-Dec-2016 00:10:29 America/Chicago] PHP Fatal error:  Call to a member function addAddressAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 84
+[19-Dec-2016 00:23:01 America/Chicago] PHP Fatal error:  Call to a member function addAddressAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 85
+[19-Dec-2016 06:08:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:10:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:10:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:10:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:10:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:10:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:10:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:32:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:32:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:32:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:32:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 06:32:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 293
+[19-Dec-2016 07:09:02 America/Chicago] PHP Fatal error:  Call to a member function addTicketAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 132
+[19-Dec-2016 07:12:59 America/Chicago] PHP Fatal error:  Call to a member function addTicketAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 132
+[19-Dec-2016 22:40:38 America/Chicago] PHP Fatal error:  Call to a member function addTicketAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 132
+[19-Dec-2016 22:45:58 America/Chicago] PHP Fatal error:  Call to a member function addTicketAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 132
+[20-Dec-2016 03:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/LeadsController.php on line 103
+[20-Dec-2016 03:48:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/LeadsController.php on line 103
+[20-Dec-2016 05:05:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:05:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 05:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 312
+[20-Dec-2016 06:28:26 America/Chicago] PHP Fatal error:  Call to a member function addAppointmentAdmin() on a non-object in /home/whizna/public_html/app/Controller/LeadsController.php on line 514
+[21-Dec-2016 05:50:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/Controller/LeadsController.php on line 634
+[21-Dec-2016 07:06:34 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 590
+[21-Dec-2016 07:06:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 590
+[21-Dec-2016 07:06:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 590
+[21-Dec-2016 07:06:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 590
+[21-Dec-2016 07:06:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 590
+[21-Dec-2016 11:44:42 America/Chicago] PHP Warning:  POST Content-Length of 15749934 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Dec-2016 13:18:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 129
+[21-Dec-2016 13:18:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 129
+[21-Dec-2016 13:18:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 129
+[21-Dec-2016 13:18:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 129
+[21-Dec-2016 13:18:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 129
+[22-Dec-2016 01:15:55 America/Chicago] PHP Fatal error:  [] operator not supported for strings in /home/whizna/public_html/app/Controller/LeadsController.php on line 585
+[22-Dec-2016 01:18:35 America/Chicago] PHP Fatal error:  [] operator not supported for strings in /home/whizna/public_html/app/Controller/LeadsController.php on line 585
+[22-Dec-2016 01:25:41 America/Chicago] PHP Fatal error:  [] operator not supported for strings in /home/whizna/public_html/app/Controller/LeadsController.php on line 585
+[22-Dec-2016 02:12:17 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Controller/LeadsController.php on line 593
+[22-Dec-2016 02:15:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/whizna/public_html/app/Controller/LeadsController.php on line 611
+[22-Dec-2016 02:20:02 America/Chicago] PHP Fatal error:  Cannot redeclare class Appointment in /home/whizna/public_html/app/Model/Attachment.php on line 112
+[22-Dec-2016 05:09:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/LeadsController.php on line 428
+[22-Dec-2016 05:09:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'file' (T_STRING) in /home/whizna/public_html/app/Controller/LeadsController.php on line 621
+[22-Dec-2016 07:06:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 713
+[22-Dec-2016 22:51:02 America/Chicago] PHP Fatal error:  Class 'CakeEmail' not found in /home/whizna/public_html/app/Controller/LeadsController.php on line 644
+[22-Dec-2016 22:52:11 America/Chicago] PHP Fatal error:  Class 'CakeEmail' not found in /home/whizna/public_html/app/Controller/LeadsController.php on line 644
+[22-Dec-2016 22:54:37 America/Chicago] PHP Fatal error:  Class 'CakeEmail' not found in /home/whizna/public_html/app/Controller/LeadsController.php on line 644
+[22-Dec-2016 23:02:13 America/Chicago] PHP Fatal error:  Class 'Cake\Mailer\Email' not found in /home/whizna/public_html/app/Controller/LeadsController.php on line 645
+[23-Dec-2016 00:17:45 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/whizna/public_html/app/Controller/LeadsController.php on line 653
+[23-Dec-2016 00:32:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in /home/whizna/public_html/app/Controller/LeadsController.php on line 654
+[23-Dec-2016 00:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$Email' (T_VARIABLE) in /home/whizna/public_html/app/Controller/LeadsController.php on line 654
+[23-Dec-2016 04:15:11 America/Chicago] PHP Fatal error:  Call to undefined method CakeEmail::Format() in /home/whizna/public_html/app/Controller/LeadsController.php on line 651
+[23-Dec-2016 04:20:28 America/Chicago] PHP Fatal error:  Call to undefined method CakeEmail::format() in /home/whizna/public_html/app/Controller/LeadsController.php on line 651
+[23-Dec-2016 04:48:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in /home/whizna/public_html/app/Controller/AppController.php on line 50
+[23-Dec-2016 04:48:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in /home/whizna/public_html/app/Controller/AppController.php on line 50
+[23-Dec-2016 05:24:39 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 718
+[23-Dec-2016 05:24:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 718
+[23-Dec-2016 05:24:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 718
+[23-Dec-2016 05:24:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 718
+[23-Dec-2016 05:24:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 718
+[24-Dec-2016 01:55:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 714
+[24-Dec-2016 01:55:06 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Leads/admin_convertlead.ctp on line 714
+[24-Dec-2016 13:28:11 America/Chicago] PHP Parse error:  syntax error, unexpected ''too_short'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/User.php on line 93
+[24-Dec-2016 13:28:42 America/Chicago] PHP Parse error:  syntax error, unexpected ''too_short'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/User.php on line 93
+[26-Dec-2016 06:46:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 24
+[26-Dec-2016 06:46:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 24
+[26-Dec-2016 06:46:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 24
+[26-Dec-2016 06:46:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 24
+[26-Dec-2016 06:46:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 24
+[27-Dec-2016 01:27:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Calendars/admin_schedule.ctp on line 15
+[27-Dec-2016 01:31:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Calendars/admin_schedule.ctp on line 12
+[27-Dec-2016 01:32:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Calendars/admin_schedule.ctp on line 12
+[27-Dec-2016 07:12:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/CalendarsController.php on line 417
+[27-Dec-2016 07:13:09 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/Controller/CalendarsController.php on line 417
+[28-Dec-2016 01:18:08 America/Chicago] PHP Fatal error:  Cannot redeclare AppointmentsController::admin_appointment() in /home/whizna/public_html/app/Controller/AppointmentsController.php on line 438
+[28-Dec-2016 03:48:18 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Calendars/admin_add.ctp on line 45
+[28-Dec-2016 03:57:18 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Calendars/admin_add.ctp on line 45
+[28-Dec-2016 23:41:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketlist.ctp on line 15
+[04-Jan-2017 02:32:05 America/Chicago] PHP Parse error:  syntax error, unexpected ''price_cost'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/Product.php on line 37
+[05-Jan-2017 01:10:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Estimates/admin_estimatelist.ctp on line 173
+[09-Jan-2017 01:52:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:52:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:52:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:52:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:52:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:53:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 645
+[09-Jan-2017 01:53:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 645
+[09-Jan-2017 01:53:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 645
+[09-Jan-2017 01:53:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 645
+[09-Jan-2017 01:53:22 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 645
+[09-Jan-2017 01:53:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:53:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:53:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:53:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:53:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 257
+[09-Jan-2017 01:54:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:54:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:54:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:54:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:54:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:55:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:55:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:56:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:56:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:56:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:56:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:56:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 01:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 262
+[09-Jan-2017 02:09:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 247
+[09-Jan-2017 02:09:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 247
+[09-Jan-2017 02:09:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 247
+[09-Jan-2017 02:09:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 247
+[09-Jan-2017 02:09:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 247
+[09-Jan-2017 07:24:01 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 512
+[10-Jan-2017 06:24:47 America/Chicago] PHP Parse error:  syntax error, unexpected ''data-altfield'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 67
+[10-Jan-2017 06:24:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''data-altfield'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 67
+[10-Jan-2017 06:24:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''data-altfield'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 67
+[10-Jan-2017 06:24:48 America/Chicago] PHP Parse error:  syntax error, unexpected ''data-altfield'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 67
+[10-Jan-2017 06:24:49 America/Chicago] PHP Parse error:  syntax error, unexpected ''data-altfield'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Invoices/admin_editinginvoice.ctp on line 67
+[11-Jan-2017 02:18:24 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/whizna/public_html/app/Controller/PaymentsController.php on line 64
+[11-Jan-2017 03:51:04 America/Chicago] PHP Parse error:  syntax error, unexpected ''fields'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/Ticket.php on line 32
+[11-Jan-2017 03:51:05 America/Chicago] PHP Parse error:  syntax error, unexpected ''fields'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/Ticket.php on line 32
+[11-Jan-2017 03:51:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''fields'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/Ticket.php on line 32
+[11-Jan-2017 03:51:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''fields'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/Ticket.php on line 32
+[11-Jan-2017 03:51:06 America/Chicago] PHP Parse error:  syntax error, unexpected ''fields'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/Model/Ticket.php on line 32
+[11-Jan-2017 04:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 04:37:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 351
+[11-Jan-2017 05:12:40 America/Chicago] PHP Fatal error:  Call to a member function findTicketNameIdbyUserId() on a non-object in /home/whizna/public_html/app/Controller/EstimatesController.php on line 163
+[11-Jan-2017 05:12:41 America/Chicago] PHP Fatal error:  Call to a member function findTicketNameIdbyUserId() on a non-object in /home/whizna/public_html/app/Controller/EstimatesController.php on line 163
+[11-Jan-2017 05:12:41 America/Chicago] PHP Fatal error:  Call to a member function findTicketNameIdbyUserId() on a non-object in /home/whizna/public_html/app/Controller/EstimatesController.php on line 163
+[11-Jan-2017 05:12:41 America/Chicago] PHP Fatal error:  Call to a member function findTicketNameIdbyUserId() on a non-object in /home/whizna/public_html/app/Controller/EstimatesController.php on line 163
+[11-Jan-2017 05:12:41 America/Chicago] PHP Fatal error:  Call to a member function findTicketNameIdbyUserId() on a non-object in /home/whizna/public_html/app/Controller/EstimatesController.php on line 163
+[11-Jan-2017 05:15:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Estimates/admin_editingestimate.ctp on line 52
+[11-Jan-2017 05:15:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Estimates/admin_editingestimate.ctp on line 52
+[11-Jan-2017 05:15:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Estimates/admin_editingestimate.ctp on line 52
+[11-Jan-2017 05:15:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Estimates/admin_editingestimate.ctp on line 52
+[11-Jan-2017 05:15:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Estimates/admin_editingestimate.ctp on line 52
+[12-Jan-2017 01:50:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 75
+[12-Jan-2017 01:50:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 75
+[12-Jan-2017 01:50:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 75
+[12-Jan-2017 01:50:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 75
+[12-Jan-2017 01:50:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 75
+[12-Jan-2017 02:14:34 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:14:34 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:14:41 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:14:41 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:14:58 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:14:58 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:15:02 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 02:15:02 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 14
+[12-Jan-2017 04:14:20 America/Chicago] PHP Fatal error:  Call to a member function addCustomFieldTypeAdmin() on a non-object in /home/whizna/public_html/app/Controller/TicketsController.php on line 198
+[12-Jan-2017 04:21:09 America/Chicago] PHP Parse error:  syntax error, unexpected '$save' (T_VARIABLE) in /home/whizna/public_html/app/Controller/TicketsController.php on line 200
+[12-Jan-2017 04:21:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$save' (T_VARIABLE) in /home/whizna/public_html/app/Controller/TicketsController.php on line 200
+[12-Jan-2017 04:21:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$save' (T_VARIABLE) in /home/whizna/public_html/app/Controller/TicketsController.php on line 200
+[12-Jan-2017 04:21:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$save' (T_VARIABLE) in /home/whizna/public_html/app/Controller/TicketsController.php on line 200
+[12-Jan-2017 04:21:17 America/Chicago] PHP Parse error:  syntax error, unexpected '$save' (T_VARIABLE) in /home/whizna/public_html/app/Controller/TicketsController.php on line 200
+[12-Jan-2017 04:21:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$save' (T_VARIABLE) in /home/whizna/public_html/app/Controller/TicketsController.php on line 200
+[12-Jan-2017 05:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:33:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 05:34:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 84
+[12-Jan-2017 23:46:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:46:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:46:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:46:53 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:46:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:49:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:50:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:50:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:50:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:50:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:50:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 215
+[12-Jan-2017 23:50:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[12-Jan-2017 23:50:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 266
+[13-Jan-2017 00:37:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:37:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:40:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 212
+[13-Jan-2017 00:50:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 211
+[13-Jan-2017 00:50:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 211
+[13-Jan-2017 00:50:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 211
+[13-Jan-2017 00:50:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 211
+[13-Jan-2017 00:50:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_useredit.ctp on line 211
+[16-Jan-2017 01:05:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/UsersController.php on line 566
+[16-Jan-2017 01:05:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/UsersController.php on line 566
+[16-Jan-2017 01:05:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/UsersController.php on line 566
+[16-Jan-2017 02:31:00 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:05 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:06 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:06 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:07 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 02:31:07 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfields.ctp on line 98
+[16-Jan-2017 03:20:43 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:20:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:20:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:20:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:20:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:41:31 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[16-Jan-2017 03:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_ticketfieldsedit.ctp on line 29
+[18-Jan-2017 00:20:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:21:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:22:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:22:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:23:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:27:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:37:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 15
+[18-Jan-2017 00:37:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 15
+[18-Jan-2017 00:47:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 15
+[18-Jan-2017 00:52:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 15
+[18-Jan-2017 00:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 00:57:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:01:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:01:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 01:02:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 17
+[18-Jan-2017 04:16:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/whizna/public_html/app/View/Tickets/admin_customfieldtype.ctp on line 13
+[18-Jan-2017 04:50:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[18-Jan-2017 04:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 88
+[19-Jan-2017 02:11:43 America/Chicago] PHP Fatal error:  Cannot redeclare TicketsController::admin_ticketedit() in /home/whizna/public_html/app/Controller/TicketsController.php on line 442
+[19-Jan-2017 06:36:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 381
+[19-Jan-2017 07:55:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 04:03:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketdetails.ctp on line 1635
+[20-Jan-2017 04:04:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketdetails.ctp on line 1635
+[20-Jan-2017 04:04:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketdetails.ctp on line 1636
+[20-Jan-2017 04:04:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Tickets/admin_ticketdetails.ctp on line 1636
+[20-Jan-2017 05:41:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 05:41:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 05:41:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 05:41:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 06:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 06:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 06:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[20-Jan-2017 06:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/whizna/public_html/app/Controller/TicketsController.php on line 379
+[23-Jan-2017 05:53:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 05:53:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 210
+[23-Jan-2017 22:59:10 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:13 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[23-Jan-2017 22:59:14 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 274
+[24-Jan-2017 01:53:38 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:53:40 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:53:40 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:53:40 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:53:41 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:57:19 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:57:20 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:57:21 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:57:21 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 01:57:21 America/Chicago] PHP Fatal error:  Call to a member function findAddressbyUserId() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 135
+[24-Jan-2017 02:32:07 America/Chicago] PHP Fatal error:  Call to a member function deletereminder() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 222
+[24-Jan-2017 02:32:09 America/Chicago] PHP Fatal error:  Call to a member function deletereminder() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 222
+[24-Jan-2017 02:32:09 America/Chicago] PHP Fatal error:  Call to a member function deletereminder() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 222
+[24-Jan-2017 02:32:09 America/Chicago] PHP Fatal error:  Call to a member function deletereminder() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 222
+[24-Jan-2017 02:32:09 America/Chicago] PHP Fatal error:  Call to a member function deletereminder() on a non-object in /home/whizna/public_html/app/Controller/RemindersController.php on line 222
+[24-Jan-2017 06:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:20 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:21 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:21 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:22 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:22:22 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:27:57 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[24-Jan-2017 06:27:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 392
+[25-Jan-2017 00:40:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 00:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 508
+[25-Jan-2017 02:24:57 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:24:59 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:24:59 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:25:00 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:25:00 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:26:18 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:26:20 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:26:20 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:26:21 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 02:26:21 America/Chicago] PHP Fatal error:  Call to a member function findEstimatebyUserId() on a non-object in /home/whizna/public_html/app/Controller/UsersController.php on line 669
+[25-Jan-2017 04:58:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 331
+[25-Jan-2017 04:59:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 331
+[25-Jan-2017 04:59:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 331
+[25-Jan-2017 04:59:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 331
+[25-Jan-2017 04:59:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 331
+[30-Jan-2017 00:52:10 America/Chicago] PHP Fatal error:  Call to a member function addCustomField() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 194
+[30-Jan-2017 00:54:32 America/Chicago] PHP Fatal error:  Call to a member function addCustomField() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 194
+[30-Jan-2017 01:31:24 America/Chicago] PHP Fatal error:  Call to a member function DeleteCustomFieldType() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 227
+[30-Jan-2017 01:31:26 America/Chicago] PHP Fatal error:  Call to a member function DeleteCustomFieldType() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 227
+[30-Jan-2017 01:31:26 America/Chicago] PHP Fatal error:  Call to a member function DeleteCustomFieldType() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 227
+[30-Jan-2017 01:31:26 America/Chicago] PHP Fatal error:  Call to a member function DeleteCustomFieldType() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 227
+[30-Jan-2017 01:31:26 America/Chicago] PHP Fatal error:  Call to a member function DeleteCustomFieldType() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 227
+[30-Jan-2017 02:35:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetfielview.ctp on line 15
+[30-Jan-2017 02:35:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetfielview.ctp on line 15
+[30-Jan-2017 02:35:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetfielview.ctp on line 15
+[30-Jan-2017 02:35:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetfielview.ctp on line 15
+[30-Jan-2017 02:35:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetfielview.ctp on line 15
+[30-Jan-2017 03:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'Asset' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 138
+[30-Jan-2017 03:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'Asset' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 138
+[30-Jan-2017 03:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'Asset' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 138
+[30-Jan-2017 03:34:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'Asset' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 138
+[30-Jan-2017 03:34:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'Asset' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 138
+[30-Jan-2017 04:08:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 138
+[30-Jan-2017 04:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 138
+[30-Jan-2017 04:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 138
+[30-Jan-2017 04:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 138
+[30-Jan-2017 04:08:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 138
+[30-Jan-2017 04:09:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 137
+[30-Jan-2017 04:09:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 137
+[30-Jan-2017 04:09:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 137
+[30-Jan-2017 04:09:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 137
+[30-Jan-2017 04:09:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 137
+[30-Jan-2017 04:09:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 135
+[30-Jan-2017 04:10:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 135
+[30-Jan-2017 04:10:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 135
+[30-Jan-2017 04:10:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 135
+[30-Jan-2017 04:10:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Assets/admin_assetfields.ctp on line 135
+[30-Jan-2017 06:16:28 America/Chicago] PHP Fatal error:  Call to a member function findallCustomFieldTypeByfieldId() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 293
+[31-Jan-2017 04:46:19 America/Chicago] PHP Fatal error:  Cannot redeclare class CustomFieldValue in /home/whizna/public_html/app/Model/AssetFieldValue.php on line 33
+[31-Jan-2017 04:46:42 America/Chicago] PHP Fatal error:  Cannot redeclare class CustomFieldValue in /home/whizna/public_html/app/Model/AssetFieldValue.php on line 33
+[31-Jan-2017 04:48:19 America/Chicago] PHP Fatal error:  Cannot redeclare class CustomFieldValue in /home/whizna/public_html/app/Model/AssetFieldValue.php on line 33
+[31-Jan-2017 04:49:00 America/Chicago] PHP Fatal error:  Cannot redeclare class CustomFieldValue in /home/whizna/public_html/app/Model/AssetFieldValue.php on line 33
+[31-Jan-2017 04:51:59 America/Chicago] PHP Fatal error:  Cannot redeclare class CustomFieldValue in /home/whizna/public_html/app/Model/AssetFieldValue.php on line 33
+[31-Jan-2017 04:52:11 America/Chicago] PHP Fatal error:  Cannot redeclare class CustomFieldValue in /home/whizna/public_html/app/Model/AssetFieldValue.php on line 33
+[31-Jan-2017 05:46:47 America/Chicago] PHP Fatal error:  Cannot redeclare AssetsController::admin_Assetdetails() in /home/whizna/public_html/app/Controller/AssetsController.php on line 351
+[31-Jan-2017 05:46:47 America/Chicago] PHP Fatal error:  Cannot redeclare AssetsController::admin_Assetdetails() in /home/whizna/public_html/app/Controller/AssetsController.php on line 351
+[31-Jan-2017 05:46:47 America/Chicago] PHP Fatal error:  Cannot redeclare AssetsController::admin_Assetdetails() in /home/whizna/public_html/app/Controller/AssetsController.php on line 351
+[31-Jan-2017 05:46:47 America/Chicago] PHP Fatal error:  Cannot redeclare AssetsController::admin_Assetdetails() in /home/whizna/public_html/app/Controller/AssetsController.php on line 351
+[31-Jan-2017 05:46:52 America/Chicago] PHP Fatal error:  Cannot redeclare AssetsController::admin_Assetdetails() in /home/whizna/public_html/app/Controller/AssetsController.php on line 351
+[31-Jan-2017 05:48:50 America/Chicago] PHP Fatal error:  Cannot redeclare AssetsController::admin_Assetdetails() in /home/whizna/public_html/app/Controller/AssetsController.php on line 351
+[31-Jan-2017 05:55:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[31-Jan-2017 06:57:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:57:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:57:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:57:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:57:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:58:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:58:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:58:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:58:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:58:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:59:25 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 06:59:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 48
+[31-Jan-2017 07:28:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:28:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:31:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:31:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:31:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:31:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[31-Jan-2017 07:31:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 39
+[01-Feb-2017 03:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:32:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:33:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 03:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:07:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:10:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:10:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:10:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:10:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:11:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:11:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:19:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:19:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:20:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 04:22:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'LAST_INSERT_ID' (T_STRING) in /home/whizna/public_html/app/Controller/AssetsController.php on line 162
+[01-Feb-2017 05:02:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$AssetFieldValue' (T_VARIABLE) in /home/whizna/public_html/app/Controller/AssetsController.php on line 151
+[01-Feb-2017 05:02:25 America/Chicago] PHP Parse error:  syntax error, unexpected '$AssetFieldValue' (T_VARIABLE) in /home/whizna/public_html/app/Controller/AssetsController.php on line 151
+[01-Feb-2017 23:19:55 America/Chicago] PHP Parse error:  syntax error, unexpected '': </b>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 46
+[02-Feb-2017 23:51:59 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_customerassets.ctp on line 67
+[02-Feb-2017 23:52:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_customerassets.ctp on line 67
+[02-Feb-2017 23:53:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_customerassets.ctp on line 67
+[02-Feb-2017 23:54:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Assets/admin_customerassets.ctp on line 67
+[03-Feb-2017 00:29:24 America/Chicago] PHP Parse error:  syntax error, unexpected '($id) ', expecting '(' in /home/whizna/public_html/app/Controller/AssetsController.php on line 305
+[03-Feb-2017 01:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/View/Assets/admin_assetfieldvalueedit.ctp on line 26
+[03-Feb-2017 01:27:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/View/Assets/admin_assetfieldvalueedit.ctp on line 26
+[03-Feb-2017 01:54:00 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/whizna/public_html/app/View/Assets/admin_assetfieldvalueedit.ctp on line 83
+[03-Feb-2017 02:03:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetfieldvalueedit.ctp on line 76
+[06-Feb-2017 22:24:35 America/Chicago] PHP Parse error:  syntax error, unexpected ''js/jquery/jquery-1.9.1.' (T_ENCAPSED_AND_WHITESPACE) in /home/whizna/public_html/app/View/Tickets/admin_new.ctp on line 470
+[07-Feb-2017 23:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[07-Feb-2017 23:50:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/whizna/public_html/app/Controller/TicketsController.php on line 333
+[08-Feb-2017 00:34:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/TicketsController.php on line 164
+[08-Feb-2017 00:34:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/TicketsController.php on line 347
+[08-Feb-2017 00:58:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/whizna/public_html/app/Controller/TicketsController.php on line 462
+[08-Feb-2017 01:24:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:25:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:26:25 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:42:42 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:43:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'AND' (T_LOGICAL_AND), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:47:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:58:04 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 01:59:31 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 02:27:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'AND' (T_LOGICAL_AND), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 02:28:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'AND' (T_LOGICAL_AND), expecting ')' in /home/whizna/public_html/app/Controller/TicketsController.php on line 463
+[08-Feb-2017 06:21:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[08-Feb-2017 06:22:27 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[08-Feb-2017 06:23:06 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[08-Feb-2017 06:28:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[08-Feb-2017 06:29:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[08-Feb-2017 06:30:41 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[08-Feb-2017 06:31:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/whizna/public_html/app/View/Assets/admin_assetdetails.ctp on line 120
+[10-Feb-2017 03:58:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 30
+[10-Feb-2017 03:58:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 30
+[10-Feb-2017 03:58:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 30
+[10-Feb-2017 03:58:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 30
+[10-Feb-2017 03:58:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 30
+[10-Feb-2017 03:59:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 03:59:49 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Appointments/admin_appointmentdetails.ctp on line 29
+[10-Feb-2017 07:03:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/whizna/public_html/app/Controller/OrdersController.php on line 151
+[13-Feb-2017 06:45:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 390
+[13-Feb-2017 06:45:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 390
+[13-Feb-2017 06:55:53 America/Chicago] PHP Parse error:  syntax error, unexpected '$userDetail' (T_VARIABLE) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$userDetail' (T_VARIABLE) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$userDetail' (T_VARIABLE) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$userDetail' (T_VARIABLE) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:55:54 America/Chicago] PHP Parse error:  syntax error, unexpected '$userDetail' (T_VARIABLE) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:02 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:03 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:03 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 06:57:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 232
+[13-Feb-2017 07:05:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 391
+[13-Feb-2017 07:05:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 391
+[13-Feb-2017 07:05:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 391
+[13-Feb-2017 07:05:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 391
+[13-Feb-2017 07:05:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 391
+[13-Feb-2017 22:55:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 474
+[13-Feb-2017 22:55:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 474
+[13-Feb-2017 22:55:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 474
+[13-Feb-2017 22:55:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 474
+[13-Feb-2017 22:55:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 474
+[13-Feb-2017 23:01:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 230
+[13-Feb-2017 23:01:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 230
+[13-Feb-2017 23:01:17 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 230
+[13-Feb-2017 23:01:17 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 230
+[13-Feb-2017 23:01:17 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 230
+[14-Feb-2017 04:05:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:05:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'Purchase' (T_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 395
+[14-Feb-2017 04:41:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 520
+[14-Feb-2017 04:41:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 520
+[14-Feb-2017 04:41:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 520
+[14-Feb-2017 04:41:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 520
+[14-Feb-2017 04:41:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 520
+[14-Feb-2017 06:43:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 271
+[14-Feb-2017 06:43:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 271
+[14-Feb-2017 06:43:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 271
+[14-Feb-2017 06:43:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 271
+[14-Feb-2017 06:43:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 271
+[14-Feb-2017 06:53:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 270
+[14-Feb-2017 06:53:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 270
+[14-Feb-2017 06:53:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 270
+[14-Feb-2017 06:53:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 270
+[14-Feb-2017 06:53:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 270
+[14-Feb-2017 22:20:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/Controller/OrdersController.php on line 170
+[14-Feb-2017 22:23:12 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/whizna/public_html/app/Controller/OrdersController.php on line 167
+[15-Feb-2017 00:52:53 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/OrdersController.php on line 260
+[15-Feb-2017 05:17:43 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 393
+[15-Feb-2017 05:17:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 393
+[15-Feb-2017 05:17:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 393
+[15-Feb-2017 05:17:45 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 393
+[15-Feb-2017 05:17:45 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 393
+[15-Feb-2017 23:31:43 America/Chicago] PHP Parse error:  syntax error, unexpected ''deletePurch' (T_ENCAPSED_AND_WHITESPACE) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 446
+[17-Feb-2017 01:37:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_pay.ctp on line 49
+[17-Feb-2017 01:38:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_pay.ctp on line 49
+[17-Feb-2017 01:38:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_pay.ctp on line 49
+[17-Feb-2017 01:38:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_pay.ctp on line 49
+[17-Feb-2017 01:38:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/whizna/public_html/app/View/Orders/admin_pay.ctp on line 49
+[17-Feb-2017 02:34:26 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 256
+[17-Feb-2017 02:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 256
+[17-Feb-2017 02:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 256
+[17-Feb-2017 02:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 256
+[17-Feb-2017 02:34:28 America/Chicago] PHP Parse error:  syntax error, unexpected ''escape'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 256
+[17-Feb-2017 03:36:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 03:37:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/whizna/public_html/app/View/Orders/admin_orderdetails.ctp on line 106
+[17-Feb-2017 04:08:15 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 782
+[17-Feb-2017 04:08:21 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 782
+[17-Feb-2017 04:08:21 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 782
+[17-Feb-2017 04:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 782
+[17-Feb-2017 04:08:22 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 782
+[17-Feb-2017 05:38:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/Controller/InvoicesController.php on line 421
+[17-Feb-2017 05:38:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/whizna/public_html/app/View/Invoices/admin_invoicedetails.ctp on line 340
+[17-Feb-2017 05:44:27 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/InvoicesController.php on line 519
+[17-Feb-2017 05:44:33 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/InvoicesController.php on line 519
+[17-Feb-2017 05:44:33 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/InvoicesController.php on line 519
+[17-Feb-2017 05:44:33 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/InvoicesController.php on line 519
+[17-Feb-2017 05:44:33 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on a non-object in /home/whizna/public_html/app/Controller/InvoicesController.php on line 519
+[18-Feb-2017 00:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Model/CommunicationLog.php on line 14
+[18-Feb-2017 00:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Model/CommunicationLog.php on line 14
+[18-Feb-2017 00:25:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Model/CommunicationLog.php on line 14
+[18-Feb-2017 00:25:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Model/CommunicationLog.php on line 14
+[18-Feb-2017 00:25:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/whizna/public_html/app/Model/CommunicationLog.php on line 14
+[18-Feb-2017 00:47:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 799
+[18-Feb-2017 00:47:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 799
+[18-Feb-2017 00:47:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 799
+[18-Feb-2017 00:47:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 799
+[18-Feb-2017 00:47:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/whizna/public_html/app/View/Users/admin_userdetail.ctp on line 799

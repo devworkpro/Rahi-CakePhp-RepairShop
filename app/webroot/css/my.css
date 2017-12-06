@@ -1,0 +1,67 @@
+.error, .error-message{
+	color: red;
+	font-size: 180%;
+}
+
+.inbox_div .no-padding .mailbox-controls .btn-group input {
+  background-color: rgb(244, 244, 244);
+  border-color: rgb(221, 221, 221);
+
+}
+
+ .m-bold {
+  background-color: #bbb !important;
+ }
+ .m-bold:hover {
+  background-color: #999 !important;
+ }
+ .m-no-link td a{
+    text-decoration: none;
+    color: #333;
+ }
+ .m-no-link td a:hover{
+    text-decoration: none;
+    color: #222;
+ }
+
+ .delete_bulk{
+    background-color: #fff !important;
+    border: none;
+ }
+ 
+  
+      #map {
+        height: 500px;
+        width: 100%;
+      }
+
+     .labels {
+  color: red;
+  font-family: "Lucida Grande", "Arial", sans-serif;
+  font-size: 15px;
+  text-align: center;
+  width: 55px;
+  white-space: nowrap;
+}
+.start , .finish {
+  color: red;
+  font-family: "Lucida Grande", "Arial", sans-serif;
+  font-size: 15px;
+  text-align: center;
+  white-space: nowrap;
+}
+.score {
+    font-size: 10px;
+}
+
+#info-score th {
+    border: 1px solid;
+    text-align: center;
+}
+.score-control.active {
+    color: red;
+}
+.gmnoprint{
+		opacity: 999 !important;
+    overflow: unset !important;
+}
